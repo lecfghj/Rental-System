@@ -1,0 +1,4 @@
+V001 "Toyota" "Corolla" 4 50 1
+Car V002 "Honda" "Civic" 5 45 "Petrol" 0
+Van V003 "Ford" "Transit" 2 60 1200 1
+Truck V004 "Volvo" "FH16" 3 80 4.5 0
